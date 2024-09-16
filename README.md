@@ -1,17 +1,10 @@
-# Repositorio Oficial de los Tutoriales de Seth&Nut
 
-<img src="images/sn_cuadrado.png" width="200" align="center" />
+# ¡Bienvenido a Seth&Nut!
 
-Bienvenidos al repositorio oficial de los tutoriales de **Seth&Nut**, 
-donde subiremos nuestro material complementario de los distintos posts 
-y artículos que publiquemos.
 
-## Contenido
+[![documentation](https://img.shields.io/badge/🌐-website-blue)](https://seth-nut.github.io/website/)
+[![documentation](https://img.shields.io/badge/📖-resources-blue)](https://seth-nut.github.io/resources/)
 
-En este repositorio encontrarás:
 
-- Código fuente
-- Ejemplos prácticos
-- Recursos adicionales
-- Material descargable
 
+**Seth&Nut** es una organización dedicada a democratizar la educación en programación y matemáticas. A través de programas educativos gratuitos, recursos didácticos, mentorías personalizadas y una activa participación en comunidades, nos comprometemos a ofrecer educación accesible y de calidad a personas de todos los niveles.
