@@ -5,3 +5,4 @@ public
 .jekyll-cache
 Gemfile.lock
 .idea
+.vscode
