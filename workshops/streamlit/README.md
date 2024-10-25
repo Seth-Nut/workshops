@@ -1,4 +1,4 @@
-# Proyecto de Análisis de Datos del Titanic 🚢
+# 🚢 Proyecto de Análisis de Datos del Titanic 
 
 Este proyecto es una aplicación interactiva en Streamlit para explorar el conjunto de datos del Titanic. La app permite visualizar y analizar factores que influyeron en la supervivencia de los pasajeros.
 
